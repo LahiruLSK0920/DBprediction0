@@ -1,1 +1,1 @@
-create a new diabetes prediction model
+create a new diabetes prediction model.
